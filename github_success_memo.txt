@@ -1,0 +1,10 @@
+
+
+     # hello! lady or Gentleman.
+     # I begin learning pathon just now on.
+     # A program that I would like to make it is MS-office inputting program.
+     # Using large amount of data on excel is quite difficult finding data that I want and edit or replace the cell under automation system.
+     # Sometimes, delayed updated data myself I feel harsh and tired at work.
+     # This is just a test version of program.
+     # Email: five1w@gmail.com
+    
